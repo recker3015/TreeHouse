@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+# Treehouse: Free Rent and PG Finder
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Overview
+Treehouse is designed to revolutionize the rental market by offering a completely free platform for renting or giving rent, including Paying Guest (PG) accommodations. This app is a social service aimed at eliminating the hassle and financial burden associated with finding a rental property. Say goodbye to broker fees and unnecessary charges!
 
-## Get started
+## Key Features
 
-1. Install dependencies
+- **Free Listings:** Post and browse rental and PG listings without any charges. Treehouse ensures that all transactions are completely free, from posting a property to booking one.
 
-   ```bash
-   npm install
-   ```
+- **User-Friendly Interface:** Easily navigate through a clean, intuitive interface to find the perfect rental or PG accommodation. Our app is designed to make the search process as straightforward as possible.
 
-2. Start the app
+- **Advanced Search Filters:** Use advanced search filters to narrow down your options based on location, rent, property type, amenities, and more. Find exactly what you're looking for with ease.
 
-   ```bash
-    npx expo start
-   ```
+- **Direct Communication:** Connect directly with property owners or seekers through in-app messaging. This eliminates the middleman and allows for transparent communication between parties.
 
-In the output, you'll find options to open the app in a
+- **Verified Listings:** To ensure safety and reliability, we provide an option for property owners to verify their listings, giving renters peace of mind when choosing a place.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Community Support:** Join a supportive community of renters and landlords. Share experiences, provide feedback, and help each other find the best rental solutions.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Booking Management:** Keep track of your rental agreements, viewing schedules, and booking history all within the app. Manage your rental process seamlessly from start to finish.
 
-## Get a fresh project
+- **Notifications:** Stay updated with instant notifications for new listings, messages, and updates on your rental status.
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Mission
+Treehouse's mission is to simplify the rental process by providing a platform where users can find and offer rental properties without any financial burden. We aim to create a community-driven service that prioritizes accessibility, transparency, and convenience.
